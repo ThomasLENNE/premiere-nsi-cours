@@ -1,0 +1,21 @@
+VMSandbox :
+
+login : nsi
+mdp : pass2NSI
+
+mdp root : pass2NSI
+
+Debian10-Buster installé par défaut sans IDE
+
+Remarques :
+proxy :
+
+
+Découverte :
+-allumer la machine, se logger
+-à l'aide des commandes cd et ls, parcourir l'arborescence, remonter à la racine (aide : https://juliend.github.io/linux-cheatsheet/)
+-Faire l'exercice sur création de répertoire (feuille OS, utiliser mkdir, cp, mv, etc...)
+-Installer une IDE (Xcfe, avec tasksel), puis redémarrer
+-Découvrir le principe des paquets et Installer un paquet en mode console avec apt-get install (python ? Atom? vlc ?)
+-Exécuter un programme (python3)
+
